@@ -2,7 +2,7 @@
 
 A real-time face mask detection system built using Python, OpenCV, and Deep Learning. This project can detect whether a person is wearing a mask, not wearing a mask, or wearing it incorrectly in images, video streams, and through webcam feed.
 
-(https://img.youtube.com/vi/Ax6P93r32KU/0.jpg)
+
 
 ---
 
