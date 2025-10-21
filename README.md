@@ -3,7 +3,7 @@
 A touchless, automatic hand sanitizer dispenser built using an Arduino Uno, an ultrasonic sensor, and a servo motor. This project is perfect for promoting hygiene and serves as a great introduction to Arduino-based automation.
 
 ![Automatic Hand Sanitizer Dispenser](https://img.youtube.com/vi/Ax6P93r32KU/0.jpg)
-*Watch the project in action: [YouTube Video](https://www.youtube.com/watch?v=Ax6P93r32KU)*
+
 
 ---
 
