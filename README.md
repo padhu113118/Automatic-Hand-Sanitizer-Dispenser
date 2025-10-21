@@ -2,8 +2,7 @@
 
 A real-time face mask detection system built using Python, OpenCV, and Deep Learning. This project can detect whether a person is wearing a mask, not wearing a mask, or wearing it incorrectly in images, video streams, and through webcam feed.
 
-![Face Mask Detection Demo](https://img.youtube.com/vi/INSERT_VIDEO_ID_HERE/0.jpg)
-*Watch the project in action: [YouTube Video](https://www.youtube.com/watch?v=Ax6P93r32KU)*
+(https://img.youtube.com/vi/Ax6P93r32KU/0.jpg)
 
 ---
 
@@ -86,6 +85,6 @@ This project uses a Convolutional Neural Network (CNN) to classify whether a per
 ```bash
 git clone https://github.com/padhu113118/face-mask-detection.git
 cd face-mask-detection
-![Automatic Hand Sanitizer Dispenser](https://img.youtube.com/vi/Ax6P93r32KU/0.jpg)
+
 
 
